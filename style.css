@@ -1,0 +1,20 @@
+iframe{
+  frameborder: 2;
+  border: 2;
+}
+.wiki{
+  height: 315px;
+  width: 700px;
+}
+.youtube{
+  height: 315px;
+  width: 560px;
+}
+.twitter-tweet{
+  height: 315px;
+  width: 560px;
+}
+.google-map{
+  height: 315px;
+  width: 560px;
+}
